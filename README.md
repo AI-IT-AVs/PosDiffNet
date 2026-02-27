@@ -44,7 +44,7 @@ Training and evaluation scripts are located in the `experiments/` directory.
 To start training:
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python train.py
+CUDA_VISIBLE_DEVICES=0 python trainval.py
 ```
 
 ---
