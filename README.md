@@ -57,7 +57,7 @@ To evaluate a trained model:
 CUDA_VISIBLE_DEVICES=0 python test.py --snapshot=../....pth.tar
 ```
 
-Replace `../path_to_checkpoint.pth.tar` with the path to your trained model checkpoint.
+Replace `../....pth.tar` with the path to your trained model checkpoint.
 
 ---
 
