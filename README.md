@@ -1,7 +1,7 @@
 # PosDiffNet
 
-Code for the IEEE TPAMI paper:  
-**"Hierarchical Information Embeddings with Neural ODEs for Personalized Federated Learning"**
+Code for the paper:  
+**"PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations"**
 
 ---
 
