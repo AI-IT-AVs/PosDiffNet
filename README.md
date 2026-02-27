@@ -12,11 +12,6 @@ We train and evaluate PosDiffNet on the following public datasets:
 - **Boreas Dataset**  
   https://www.boreas.utias.utoronto.ca/
 
-- **KITTI Dataset**  
-  http://www.cvlibs.net/datasets/kitti/
-
-Please download and prepare the datasets according to the official instructions before training or testing.
-
 ---
 
 ## Installation
