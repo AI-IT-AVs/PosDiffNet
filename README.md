@@ -12,6 +12,8 @@ We train and evaluate PosDiffNet on the following public datasets:
 - **Boreas Dataset**  
   https://www.boreas.utias.utoronto.ca/
 
+Other datasets can be processed in a similar way.
+
 ---
 
 ## Installation
